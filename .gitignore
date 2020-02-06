@@ -8,4 +8,5 @@
 Carthage/Build
 
 .swiftpm
+.build
 Podfile.lock
